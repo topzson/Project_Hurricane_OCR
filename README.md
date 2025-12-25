@@ -1,29 +1,3 @@
----
-language:
-- th
-- en
-license: apache-2.0
-tags:
-- ocr
-- thai
-- license-plate
-- typhoon-ocr
-- peft
-- lora
-- typhoon
-- computer-vision
-- image-to-text
-base_model: scb10x/typhoon-ocr1.5-2b
-library_name: transformers
-pipeline_tag: image-to-text
-metrics:
-- accuracy
-datasets:
-- custom
-widget:
-- src: https://raw.githubusercontent.com/topzson/assets/main/sample_plate.jpg
-  example_title: "Thai License Plate Example"
----
 
 # Hurricane OCR - Thai License Plate Recognition 🚗
 
