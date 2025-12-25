@@ -299,7 +299,7 @@ Special thanks to the SCB-10X team for developing Typhoon-OCR! 🙏
 ## 📧 Contact & Support
 
 - 👨‍💻 **GitHub**: [@topzson](https://github.com/topzson)
-- 🐛 **Issues**: [Report here](https://github.com/topzson/hurricane-ocr/issues)
+- 🐛 **Issues**: [Report here](https://github.com/topzson/Project_Hurricane_OCR/issues)
 - 💬 **Discussions**: [HuggingFace Discussions](https://huggingface.co/Rattatammanoon/hurricane-ocr-v1/discussions)
 
 ---
